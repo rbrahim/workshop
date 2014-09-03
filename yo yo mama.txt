@@ -2,4 +2,8 @@ git sessie!
 
 iets aanpassen
 
+<<<<<<< HEAD
 dit is uit joeri's branch
+=======
+in mijn branch
+>>>>>>> 79561ef566bda1343e0be6e73cfd24a64defd5f1
